@@ -1,6 +1,6 @@
 {
  "name": "react-chatbot-deepai",
- "version": "1.0.0",
+ "version": "1.0.4",
  "description": "Simple react chatbot compinent using openai models. It relies on react-chatbot-kit for the chatbot UI.",
  "license": "MIT",
  "author": "Moksh Shah",
@@ -9,13 +9,21 @@
   "dist",
   "README.md"
  ],
- "main": "./dist/my-component.umd.js",
- "module": "./dist/my-component.es.js",
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/mnshah0101/react-chatbot-deepai.git"
+ },
+
+ "main": "./dist/react-chatbot-deepai.umd.js",
+ "module": "./dist/react-chatbot-deepai.es.js",
+ "style": "./dist/style.css",
  "exports": {
   ".": {
-   "import": "./dist/my-component.es.js",
-   "require": "./dist/my-component.umd.js"
-  }
+   "import": "./dist/react-chatbot-deepai.es.js",
+   "require": "./dist/react-chatbot-deepai.umd.js"
+  },
+  "./dist/styles.css": { "import": "./dist/style.css", "require": "./dist/style.css" }
+
  },
  "scripts": {
   "dev": "vite",

@@ -212,7 +212,7 @@
 .openedChat {
   opacity: 1;
   position: fixed;
-  bottom: 100px;
+  bottom: 130px;
   right: 50px;
   transition: 0.5s ease-in-out;
   transform: translateX(0px);
@@ -220,12 +220,12 @@
 
 .closedChat {
   position: fixed;
-  bottom: 100px;
+  bottom: 130px;
   right: 50px;
   opacity: 0;
   transition: all 1s ease-in-out;
   transition: 0.5s ease-in-out;
-  transform: translateX(1000px); // or whatever number you prefer
+  transform: translateX(1000px);
 }
 
 button,
