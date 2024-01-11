@@ -1,7 +1,7 @@
 {
  "name": "react-chatbot-deepai",
- "version": "1.0.4",
- "description": "Simple react chatbot compinent using openai models. It relies on react-chatbot-kit for the chatbot UI.",
+ "version": "1.0.5",
+ "description": "Simple react chatbot component built on OPENAI's models. It relies on react-chatbot-kit for the chatbot UI and adds custom features such as open/close.",
  "license": "MIT",
  "author": "Moksh Shah",
  "keywords": ["react", "chatbot", "openai", "deepai", "react-chatbot-kit", "react chatbot"],

@@ -143,3 +143,9 @@ It is recommended to save it as an environemnt variable and then pass it through
 - Edit styles
 - Close Button Included
 - Minimal
+
+## Roadmap
+
+- I plan to add more customizability.
+
+- I also plan to make a TS version.
