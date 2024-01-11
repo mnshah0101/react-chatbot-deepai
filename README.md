@@ -8,7 +8,7 @@ This is a simple react chatbot component that uses OPENAI and react-chatbot-kit 
 
 ## Screenshots
 
-<img src="https://i.ibb.co/W3wBS0v/example-chatbot.png" alt="example-chatbot" border="0">
+<img src="https://i.ibb.co/W3wBS0v/example-chatbot.png" alt="example-chatbot" border="0" width="400" height="400">
 
 ## Installation
 
